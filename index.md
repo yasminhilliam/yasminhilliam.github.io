@@ -3,7 +3,9 @@ Find out more about my ongoing work [here](./another-page.html).
 
 _Or_ follow the links below for information on:
 >[Education](./another-page.html)
+>
 >[Publications](./another-page.html)
+>
 >[Contact details](./another-page.html)
 
 ---
