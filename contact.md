@@ -10,5 +10,5 @@ ykhilliam@pitt.edu
 [<u>Profile</u>](https://www.linkedin.com/in/yasmin-hilliam-17868378/)
 
 <h2>
-[&larr;](./)
+  <ahref="./">&larr;</a>
 </h2>
