@@ -22,4 +22,4 @@ Thesis title: Tracking mutations in the genome of the Liverpool Epidemic Strain 
 >My undergraduate research project focused on identifying fixed mutations within the genome of the highly transmissible Liverpool Epidemic Strain (LES) of <i>P. aeruginosa</i>. The project aimed to uncover the likely order of acquisition of fixed mutations in three genes in modern isolates of LES. I was unable to elucidate the sequence of transmission events that occurred to allow for the accumulation of these fixed mutation but gained a deeper understanding of the mechanisms of pathoadaptation that are observed in chronic <i>P. aeruginosa</i> infections.
 
 
-<h2>[&larr;](./)</h2>
+[<h2>&larr;</h2>](./)
