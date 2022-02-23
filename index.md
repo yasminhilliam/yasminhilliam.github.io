@@ -1,4 +1,4 @@
-<h2>About</h2>
+<h1>About</h1>
 **I am a postdoctoral associate working jointly in the labs of Jennifer Bomberger and Vaughn Cooper at the University of Pittsburgh studying the effects of viral-bacterial co-infection on the cystic fibrosis airway microbiome.**
 
 * * *
