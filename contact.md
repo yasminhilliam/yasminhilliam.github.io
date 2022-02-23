@@ -9,4 +9,4 @@ ykhilliam@pitt.edu
 <h2>LinkedIn</h2>
 [<u>Profile</u>](https://www.linkedin.com/in/yasmin-hilliam-17868378/)
 
-[<h2>&larr;</h2>](./)
+[&larr;](./)
