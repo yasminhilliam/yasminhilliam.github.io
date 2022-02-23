@@ -11,4 +11,4 @@ Yasmin Hilliam, Matthew P. Moore, Iain L. Lamont, Diana Bilton, Charles S. Hawor
 
 _European Respiratory Journal_ Apr 2017, 49 (4) DOI: [<u>10.1183/13993003.02108-2016</u>](https://erj.ersjournals.com/content/49/4/1602108.abstract)
 
-[&larr;](./)
+<h2>[&larr;](./)</h2>
