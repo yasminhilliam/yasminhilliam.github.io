@@ -1,7 +1,7 @@
 <h1>Contact</h1>
 
 <h2>Email</h2>
-ykhilliam@pitt.edu
+ykh@dartmouth.edu
 
 <h2>GitHub</h2>
 [<u>Profile</u>](https://github.com/yasminhilliam)
