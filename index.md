@@ -1,9 +1,7 @@
 <h1>About</h1>
-**I am a postdoctoral associate working jointly in the labs of Jennifer Bomberger and Vaughn Cooper at the University of Pittsburgh studying the effects of viral-bacterial co-infection on the cystic fibrosis airway microbiome.**
+**I am a research scientist working jointly in the labs of Jennifer Bomberger, PhD and Vaughn Cooper, PhD studying the effects of viral-bacterial co-infection on the cystic fibrosis airway microbiome. I am currently based in the Bomberger Lab at the Geisel School of Medicine at Dartmouth.**
 
 * * *
 
 <h2>Updates</h2>
-I will be presenting a poster at the 18th International Conference on <i>Pseudomonas</i> in Atlanta, GA in April 2022.
-
-More information about the conference can be found [<u>here</u>](https://pseudomonasconference.com/).
+I will be attending the CSHL Microbiome 2022 meeting in October 2022.
