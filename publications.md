@@ -3,7 +3,7 @@
 <h2>Microbial and immune regulation of the gut-lung axis during viral-bacterial co-infection</h2>
 Sidney Lane, <b>Yasmin Hilliam</b>, Jennifer Bomberger
 
-_Journal of Bacteriology — In Press_
+_Journal of Bacteriology_ Nov 2022, e00295-22 DOI: [<u>10.1128/jb.00295-22</u>](https://journals.asm.org/doi/10.1128/jb.00295-22)
 
 <h2><i>Pseudomonas aeruginosa</i> and microbial keratitis</h2>
 <b>Yasmin Hilliam</b>, Stephen Kaye, Craig Winstanley
