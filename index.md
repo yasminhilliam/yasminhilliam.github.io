@@ -4,11 +4,6 @@
 * * *
 
 <h2>Upcoming events</h2>
-**June 2023 — Cystic Fibrosis: Ecology, Evolution, and Eradication**
-<br>
-Telluride, CO
-<br>
-<br>
 **July 2023 — Reproducible and FAIR Bioinformatics Analysis of Omics Data**
 <br>
 Mount Desert Island Biological Laboratory, ME
