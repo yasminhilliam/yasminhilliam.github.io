@@ -4,11 +4,6 @@
 * * *
 
 <h2>Upcoming events</h2>
-**July 2023 — Reproducible and FAIR Bioinformatics Analysis of Omics Data**
-<br>
-Mount Desert Island Biological Laboratory, ME
-<br>
-<br>
-**November 2023 — North American Cystic Fibrosis Conference**
+**November 2023 — Speaker at North American Cystic Fibrosis Conference**
 <br>
 Phoenix, AZ
