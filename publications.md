@@ -3,7 +3,7 @@
 <h2>Elexacaftor-tezacaftor-ivacaftor decreases <i>Pseudomonas</i> abundance in the sinonasal microbiome in cystic fibrosis</h2>
 Anna Zemke, <b>Yasmin Hilliam</b>, Amanda Stapleton, Adam Kimple, Jennifer Goralski, Amber Shaffer, Joe Pilewski, Brent Senior, Stella Lee, Vaughn Cooper
 
-<i>International Forum of Allergy & Rhinology</i>, In press
+_International Forum of Allergy & Rhinology_ Oct 2023 DOI: [<u>10.1002/alr.23288</u>](https://doi.org/10.1002/alr.23288)
 
 <h2>Microbial and immune regulation of the gut-lung axis during viral-bacterial co-infection</h2>
 Sidney Lane, <b>Yasmin Hilliam</b>, Jennifer Bomberger
