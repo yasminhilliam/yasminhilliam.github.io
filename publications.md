@@ -1,5 +1,11 @@
 <h1>Publications</h1>
 
+<h2>Effects of highly effective modulator therapy on the dynamics of the respiratory of mucosal environment and inflammatory response in cystic fibrosis</h2>
+Samar Atteih, Catherine Armbruster, <b>Yasmin Hilliam</b>, Glenn J. Rapsinski, Junu Koirala, Leah Krainz, Jordan Gaston, Matthew DuPont, Anna Zemke, John Alcorn, John Moore, Vaughn Cooper, Stella Lee, Erick Forno, Jennifer Bomberger
+
+_Pediatric Pulmonology_ In press
+
+
 <h2>Elexacaftor-tezacaftor-ivacaftor decreases <i>Pseudomonas</i> abundance in the sinonasal microbiome in cystic fibrosis</h2>
 Anna Zemke, <b>Yasmin Hilliam</b>, Amanda Stapleton, Adam Kimple, Jennifer Goralski, Amber Shaffer, Joe Pilewski, Brent Senior, Stella Lee, Vaughn Cooper
 
