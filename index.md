@@ -4,6 +4,9 @@
 * * *
 
 <h2>Upcoming events</h2>
-**November 2023 — Speaker at North American Cystic Fibrosis Conference**
+**February 2024 - Speaker at Microbiology & Molecular Pathogenesis Program Annual Retreat**
 <br>
-Phoenix, AZ
+Fairlee, VT
+**July 2024 - Instructor at Reproducible and FAIR Bioinformatics Analysis of Omics Data Course**
+<br>
+Mount Desert Island, ME
