@@ -7,6 +7,8 @@
 **February 2024 - Speaker at Microbiology & Molecular Pathogenesis Program Annual Retreat**
 <br>
 Fairlee, VT
+<br>
+<br>
 **July 2024 - Instructor at Reproducible and FAIR Bioinformatics Analysis of Omics Data Course**
 <br>
 Mount Desert Island, ME
