@@ -7,7 +7,7 @@ This project is part of an ongoing collaboration between Jennifer Bomberger, PhD
 <br>
 <h2><i>In vitro</i> modeling of polymicrobial communities in the CF airways</h2>
 
-As part of an ongoing collaboration between Jennifer Bomberger, PhD (Geisel School of Medicine at Dartmouth), Joanna Goldberg, PhD (Emory University School of Medicine), and Marvin Whiteley, PhD (Georgia Institute of Technology) we are working to develop an _in vitro_ model to accurately recapitulate the multi-species communities in the CF airway. By utilizing transcriptomic data from CF sputum samples we can quantify the ability of given models to reproduce the growth conditions experienced by bacteria existing in the CF airway (doi: <a href:"https://doi.org/10.1073/pnas.2221542120">10.1073/pnas.2221542120</a>).
+As part of an ongoing collaboration between Jennifer Bomberger, PhD (Geisel School of Medicine at Dartmouth), Joanna Goldberg, PhD (Emory University School of Medicine), and Marvin Whiteley, PhD (Georgia Institute of Technology) we are working to develop an _in vitro_ model to accurately recapitulate the multi-species communities in the CF airway. By utilizing transcriptomic data from CF sputum samples we can quantify the ability of given models to reproduce the growth conditions experienced by bacteria existing in the CF airway (doi: <a href="https://doi.org/10.1073/pnas.2221542120">10.1073/pnas.2221542120</a>).
 
 <h2>
   <a href="./">&larr;</a>
