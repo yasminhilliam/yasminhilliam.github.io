@@ -7,3 +7,7 @@
 **July 2024 - Instructor at Reproducible and FAIR Bioinformatics Analysis of Omics Data Course**
 <br>
 Mount Desert Island, ME
+<br>
+**September 2024 - North American Cystic Fibrosis Conference**
+<br>
+Boston, MA
