@@ -1,5 +1,10 @@
 <h1>Publications</h1>
 
+<h2>Persistence and evolution of <i>Pseudomonas aeruginosa</i> following initiation of highly effective modulator therapy in cystic fibrosis</h2>
+Catherine Armbruster, <b>Yasmin Hilliam</b>, Anna Zemke, Samar Atteih, Christopher Marshall, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, Stella Lee, Vaughn Cooper, Jennifer Bomberger
+
+_mBio_ Apr 2024 DOI: [<u>10.1128/mbio.00519-24</u>](https://doi.org/10.1128/mbio.00519-24)
+
 <h2>Effects of highly effective modulator therapy on the dynamics of the respiratory of mucosal environment and inflammatory response in cystic fibrosis</h2>
 Samar Atteih, Catherine Armbruster, <b>Yasmin Hilliam</b>, Glenn Rapsinski, Junu Koirala, Leah Krainz, Jordan Gaston, Matthew DuPont, Anna Zemke, John Alcorn, John Moore, Vaughn Cooper, Stella Lee, Erick Forno, Jennifer Bomberger
 
