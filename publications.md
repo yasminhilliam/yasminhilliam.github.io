@@ -10,7 +10,7 @@ Catherine Armbruster, <b>Yasmin Hilliam</b>, Anna Zemke, Samar Atteih, Christoph
 
 _mBio_ Apr 2024 DOI: [<u>10.1128/mbio.00519-24</u>](https://doi.org/10.1128/mbio.00519-24)
 
-<h2>Effects of highly effective modulator therapy on the dynamics of the respiratory of mucosal environment and inflammatory response in cystic fibrosis</h2>
+<h2>Effects of highly effective modulator therapy on the dynamics of the respiratory mucosal environment and inflammatory response in cystic fibrosis</h2>
 Samar Atteih, Catherine Armbruster, <b>Yasmin Hilliam</b>, Glenn Rapsinski, Junu Koirala, Leah Krainz, Jordan Gaston, Matthew DuPont, Anna Zemke, John Alcorn, John Moore, Vaughn Cooper, Stella Lee, Erick Forno, Jennifer Bomberger
 
 _Pediatric Pulmonology_ Feb 2024 DOI: [<u>10.1002/ppul.26898</u>](https://onlinelibrary.wiley.com/doi/10.1002/ppul.26898)
