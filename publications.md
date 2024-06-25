@@ -3,7 +3,7 @@
 <h2>Cystic fibrosis pathogens persist in the upper respiratory tract following initiation of elexacaftor/tezacaftor/ivacaftor therapy</h2>
 <b>Yasmin Hilliam</b>, Catherine Armbruster, Glenn Rapsinski, Christopher Marshall, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, Vaugh Cooper, Stella Lee, Jennifer Bomberger
 
-_Microbiology Spectrum_ 2024 In press
+_Microbiology Spectrum_ Jun 2024 DOI: [<u>10.1128/spectrum.00787-24</u>](https://journals.asm.org/doi/10.1128/spectrum.00787-24)
 
 <h2>Persistence and evolution of <i>Pseudomonas aeruginosa</i> following initiation of highly effective modulator therapy in cystic fibrosis</h2>
 Catherine Armbruster, <b>Yasmin Hilliam</b>, Anna Zemke, Samar Atteih, Christopher Marshall, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, Stella Lee, Vaughn Cooper, Jennifer Bomberger
