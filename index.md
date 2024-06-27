@@ -8,6 +8,10 @@
 <br>
 Mount Desert Island, ME
 <br>
+**September 2024 - 19th International Biennial _Pseudomonas_ Conference**
+<br>
+Copenhagen, Denmark
+<br>
 **September 2024 - North American Cystic Fibrosis Conference**
 <br>
 Boston, MA
