@@ -4,10 +4,7 @@
 * * *
 
 <h2>Upcoming events</h2>
-**July 2024 - Instructor at Reproducible and FAIR Bioinformatics Analysis of Omics Data Course**
-<br>
-Mount Desert Island, ME
-<br>
+
 **September 2024 - 19th International Biennial _Pseudomonas_ Conference**
 <br>
 Copenhagen, Denmark
