@@ -1,6 +1,6 @@
 <h1>Publications</h1>
 
-<h2>RNA-seq reproducibility of Pseudomonas aeruginosa in laboratory models of cystic fibrosis</h2>
+<h2>RNA-seq reproducibility of _Pseudomonas aeruginosa_ in laboratory models of cystic fibrosis</h2>
 Rebecca Duncan, Gina Lewin, Daniel Cornforth, Frances Diggle, Ananya Kapur, Dina Moustafa, <b>Yasmin Hilliam</b>, Jennifer Bomberger, Marvin Whiteley, Joanna Goldberg
 
 _Microbiology Spectrum In Press_
