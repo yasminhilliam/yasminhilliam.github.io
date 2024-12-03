@@ -3,7 +3,7 @@
 <h2>RNA-seq reproducibility of <i>Pseudomonas aeruginosa</i> in laboratory models of cystic fibrosis</h2>
 Rebecca Duncan, Gina Lewin, Daniel Cornforth, Frances Diggle, Ananya Kapur, Dina Moustafa, <b>Yasmin Hilliam</b>, Jennifer Bomberger, Marvin Whiteley, Joanna Goldberg
 
-_Microbiology Spectrum_ In Press
+_Microbiology Spectrum_ Dec 2024 DOI: [<u>10.1128/spectrum.01513-24</u>](https://journals.asm.org/doi/10.1128/spectrum.01513-24)
 
 <h2>Cystic fibrosis pathogens persist in the upper respiratory tract following initiation of elexacaftor/tezacaftor/ivacaftor therapy</h2>
 <b>Yasmin Hilliam</b>, Catherine Armbruster, Glenn Rapsinski, Christopher Marshall, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, Vaugh Cooper, Stella Lee, Jennifer Bomberger
