@@ -6,7 +6,7 @@ Rebecca Duncan, Gina Lewin, Daniel Cornforth, Frances Diggle, Ananya Kapur, Dina
 _Microbiology Spectrum_ Dec 2024 DOI: [<u>10.1128/spectrum.01513-24</u>](https://journals.asm.org/doi/10.1128/spectrum.01513-24)
 
 <h2>Cystic fibrosis pathogens persist in the upper respiratory tract following initiation of elexacaftor/tezacaftor/ivacaftor therapy</h2>
-<b>Yasmin Hilliam</b>, Catherine Armbruster, Glenn Rapsinski, Christopher Marshall, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, Vaugh Cooper, Stella Lee, Jennifer Bomberger
+<b>Yasmin Hilliam</b>, Catherine Armbruster, Glenn Rapsinski, Christopher Marshall, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, Vaughn Cooper, Stella Lee, Jennifer Bomberger
 
 _Microbiology Spectrum_ Jun 2024 DOI: [<u>10.1128/spectrum.00787-24</u>](https://journals.asm.org/doi/10.1128/spectrum.00787-24)
 
