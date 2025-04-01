@@ -5,9 +5,9 @@ I am a research scientist in the Bomberger Lab at the Geisel School of Medicine 
 
 <h2>Upcoming events</h2>
 
-**Microbiology & Molecular Pathogenesis Program Retreat**<br>
-*February 13 - 14 2025*<br>
-Fairlee, VT<br>
+**DartCF Retreat**<br>
+*April 28 - 29 2025*<br>
+Hanover, NH<br>
 
 **Reproducible & FAIR Bioinformatics Analysis of Omics Data**<br>
 Course Leader<br>
