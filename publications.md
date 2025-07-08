@@ -1,5 +1,15 @@
 <h1>Publications</h1>
 
+<h2>Respiratory viral infection is associated with increased <i>Pseudomonas</i> abundance in cystic fibrosis airways</h2>
+<b>Yasmin Hilliam</b>, Catherine Armbruster, Samar Atteih, Glenn Rapsinski, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, John Williams, Vaughn Cooper, Stella Lee, Jennifer Bomberger
+
+_bioRxiv_ Jul 2025 DOI: [<u></u>]()
+
+<h2>Tolerance of clinical <i>Pseudomonas aeruginosa</i> to a commercially available contact lens disinfection solution is associated with increased expression and translation of the <i>arnA</i> gene</h2>
+<b>Yasmin Hilliam</b>, Stuart Armstrong, Fr&egrave;di Langendonk, Stephen Kaye, Craig Winstanley
+
+_Journal of Medical Microbiology_ (Under review)
+
 <h2>RNA-seq reproducibility of <i>Pseudomonas aeruginosa</i> in laboratory models of cystic fibrosis</h2>
 Rebecca Duncan, Gina Lewin, Daniel Cornforth, Frances Diggle, Ananya Kapur, Dina Moustafa, <b>Yasmin Hilliam</b>, Jennifer Bomberger, Marvin Whiteley, Joanna Goldberg
 
