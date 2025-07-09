@@ -3,7 +3,7 @@
 <h2>Respiratory viral infection is associated with increased <i>Pseudomonas</i> abundance in cystic fibrosis airways</h2>
 <b>Yasmin Hilliam</b>, Catherine Armbruster, Samar Atteih, Glenn Rapsinski, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, John Williams, Vaughn Cooper, Stella Lee, Jennifer Bomberger
 
-_bioRxiv_ Jul 2025 DOI: [<u>10.1101/2025.07.08.663034</u>](https://doi.org/10.1101/2025.07.08.663034)
+_bioRxiv_ Jul 2025 DOI: [<u>10.1101/2025.07.08.663034</u>](https://www.biorxiv.org/content/10.1101/2025.07.08.663034v1)
 
 <h2>Tolerance of clinical <i>Pseudomonas aeruginosa</i> to a commercially available contact lens disinfection solution is associated with increased expression and translation of the <i>arnA</i> gene</h2>
 <b>Yasmin Hilliam</b>, Stuart Armstrong, Fr&egrave;di Langendonk, Stephen Kaye, Craig Winstanley
