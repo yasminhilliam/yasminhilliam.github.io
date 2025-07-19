@@ -5,11 +5,6 @@ I am a research scientist in the Bomberger Lab at the Geisel School of Medicine 
 
 <h2>Upcoming events</h2>
 
-**Reproducible & FAIR Bioinformatics Analysis of Omics Data**<br>
-Course Leader<br>
-*June 26 - July 10 2025*<br>
-Mount Desert Island, ME
-
-**NACFC**<br>
+**North American Cystic Fibrosis Conference**<br>
 *October 22 - 25*<br>
 Seattle, WA
