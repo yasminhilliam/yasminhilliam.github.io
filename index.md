@@ -6,5 +6,6 @@ I am a research scientist in the Bomberger Lab at the Geisel School of Medicine 
 <h2>Upcoming events</h2>
 
 **North American Cystic Fibrosis Conference**<br>
+Invited speaker<br>
 *October 22 - 25*<br>
 Seattle, WA
