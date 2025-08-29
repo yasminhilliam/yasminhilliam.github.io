@@ -5,7 +5,7 @@
 
 _bioRxiv_ Jul 2025 DOI: [<u>10.1101/2025.07.08.663034</u>](https://www.biorxiv.org/content/10.1101/2025.07.08.663034v1)
 
-<h2>Tolerance of clinical <i>Pseudomonas aeruginosa</i> to a commercially available contact lens disinfection solution is associated with increased expression and translation of the <i>arnA</i> gene</h2>
+<h2>Induction of lipid A modification genes in <i>Pseudomonas aeruginosa</i> cells tolerant to a commercially available contact lens disinfection solution</h2>
 <b>Yasmin Hilliam</b>, Stuart Armstrong, Fr&egrave;di Langendonk, Stephen Kaye, Craig Winstanley
 
 _Journal of Medical Microbiology_ (Under review)
