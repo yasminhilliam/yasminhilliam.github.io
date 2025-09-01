@@ -8,7 +8,7 @@ _bioRxiv_ Jul 2025 DOI: [<u>10.1101/2025.07.08.663034</u>](https://www.biorxiv.o
 <h2>Induction of lipid A modification genes in <i>Pseudomonas aeruginosa</i> cells tolerant to a commercially available contact lens disinfection solution</h2>
 <b>Yasmin Hilliam</b>, Stuart Armstrong, Fr&egrave;di Langendonk, Stephen Kaye, Craig Winstanley
 
-_Journal of Medical Microbiology_ (Under review)
+_Journal of Medical Microbiology_ (In press)
 
 <h2>RNA-seq reproducibility of <i>Pseudomonas aeruginosa</i> in laboratory models of cystic fibrosis</h2>
 Rebecca Duncan, Gina Lewin, Daniel Cornforth, Frances Diggle, Ananya Kapur, Dina Moustafa, <b>Yasmin Hilliam</b>, Jennifer Bomberger, Marvin Whiteley, Joanna Goldberg
