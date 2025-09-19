@@ -4,6 +4,7 @@
 <b>Yasmin Hilliam</b>, Catherine Armbruster, Samar Atteih, Glenn Rapsinski, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, John Williams, Vaughn Cooper, Stella Lee, Jennifer Bomberger
 
 _bioRxiv_ Jul 2025 DOI: [<u>10.1101/2025.07.08.663034</u>](https://www.biorxiv.org/content/10.1101/2025.07.08.663034v1)
+Under revision at _ERJ Open Research_
 
 <h2>Induction of lipid A modification genes in <i>Pseudomonas aeruginosa</i> cells tolerant to a commercially available contact lens disinfection solution</h2>
 <b>Yasmin Hilliam</b>, Stuart Armstrong, Fr&egrave;di Langendonk, Stephen Kaye, Craig Winstanley
