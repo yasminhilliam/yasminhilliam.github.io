@@ -13,4 +13,5 @@ Seattle, WA
 * * *
 
 <h4>I am currently seeking employment in the UK or Europe as a postdoctoral researcher in bioinformatics with a focus on ecology and evolution of microbial pathogens or the role of the microbiome in disease.</h4><br>
+A copy of my CV can be found <a href="https://github.com/yasminhilliam/yasminhilliam.github.io/blob/master/assets/pdf/2025-09_github_CV.pdf">here</a>.
 Please reach out to me via email at (<a href="mailto:yasmin.hilliam@gmail.com">yasmin.hilliam@gmail.com</a>) if you believe I may be a good fit for your lab.
