@@ -52,7 +52,7 @@ _Journal of Medical Microbiology_ Jan 2020 DOI: [<u>10.1099/jmm.0.001110</u>](ht
 
 <b>Yasmin Hilliam</b>&dagger;, Matthew Moore&dagger;, Iain Lamont, Diana Bilton, Charles Haworth, Juliet Foweraker, Martin Walshaw, David Williams, Joanne Fothergill, Anthony De Soyza, Craig Winstanley
 
-_European Respiratory Journal_ Apr 2017 DOI: [<u>10.1183/13993003.02108-2016</u>](https://erj.ersjournals.com/content/49/4/1602108.abstract)
+_European Respiratory Journal_ Apr 2017 DOI: [<u>10.1183/13993003.02108-2016</u>](https://doi.org/10.1183/13993003.02108-2016)
 
 <h2>
   <a href="./">&larr;</a>
