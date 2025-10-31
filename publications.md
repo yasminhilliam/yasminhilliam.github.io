@@ -1,16 +1,16 @@
 <h1>Publications</h1>
 
+<h2>Respiratory viral infection is associated with increased <i>Pseudomonas</i> abundance in cystic fibrosis airways</h2>
+<b>Yasmin Hilliam</b>, Catherine Armbruster, Samar Atteih, Glenn Rapsinski, Monika Johnson, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, John Williams, Vaughn Cooper, Stella Lee, Jennifer Bomberger
+
+In press at _ERJ Open Research_ Oct 2025
+
+Available as preprint at bioRxiv DOI: [<u>10.1101/2025.07.08.663034</u>](https://www.biorxiv.org/content/10.1101/2025.07.08.663034v1)
+
 <h2>Induction of lipid A modification genes in <i>Pseudomonas aeruginosa</i> cells tolerant to a commercially available contact lens disinfection solution</h2>
 <b>Yasmin Hilliam</b>, Stuart Armstrong, Fr&egrave;di Langendonk, Stephen Kaye, Craig Winstanley
 
 _Journal of Medical Microbiology_ Oct 2025 DOI: [<u>10.1099/jmm.0.002073</u>](https://doi.org/10.1099/jmm.0.002073)
-
-<h2>Respiratory viral infection is associated with increased <i>Pseudomonas</i> abundance in cystic fibrosis airways</h2>
-<b>Yasmin Hilliam</b>, Catherine Armbruster, Samar Atteih, Glenn Rapsinski, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, John Williams, Vaughn Cooper, Stella Lee, Jennifer Bomberger
-
-_bioRxiv_ Jul 2025 DOI: [<u>10.1101/2025.07.08.663034</u>](https://www.biorxiv.org/content/10.1101/2025.07.08.663034v1)
-
-Under revision at _ERJ Open Research_
 
 <h2>RNA-seq reproducibility of <i>Pseudomonas aeruginosa</i> in laboratory models of cystic fibrosis</h2>
 Rebecca Duncan, Gina Lewin, Daniel Cornforth, Frances Diggle, Ananya Kapur, Dina Moustafa, <b>Yasmin Hilliam</b>, Jennifer Bomberger, Marvin Whiteley, Joanna Goldberg
