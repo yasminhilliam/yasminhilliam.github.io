@@ -3,15 +3,6 @@ I am a research scientist in the Bomberger Lab at the Geisel School of Medicine 
 
 * * *
 
-<h2>Upcoming events</h2>
-
-**North American Cystic Fibrosis Conference**<br>
-Invited speaker<br>
-*October 22 - 25*<br>
-Seattle, WA
-
-* * *
-
 <h4>I am currently seeking employment in the UK or Europe as a postdoctoral researcher in bioinformatics with a focus on ecology and evolution of microbial pathogens or the role of the microbiome in disease.</h4>
 
 A copy of my CV can be found <a href="https://yasminhilliam.github.io/assets/pdf/2025-10_github_CV.pdf" target="_blank">here</a>.
