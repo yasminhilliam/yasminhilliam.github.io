@@ -8,7 +8,7 @@
 
 [<u>LinkedIn</u>](https://www.linkedin.com/in/yasmin-hilliam-17868378/)
 
-<a href="https://yasminhilliam.github.io/assets/pdf/github_CV.pdf" target="_blank">CV</a>
+<a href="https://yasminhilliam.github.io/assets/pdf/github_CV.pdf" target="_blank"><u>CV</u></a>
 
 * * *
 
