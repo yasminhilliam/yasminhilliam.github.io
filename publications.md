@@ -52,6 +52,8 @@ _Journal of Medical Microbiology_ Jan 2020 DOI: [<u>10.1099/jmm.0.001110</u>](ht
 
 _European Respiratory Journal_ Apr 2017 DOI: [<u>10.1183/13993003.02108-2016</u>](https://doi.org/10.1183/13993003.02108-2016)
 
+* * *
+
 <h2>
   <a href="./">&larr;</a>
 </h2>
