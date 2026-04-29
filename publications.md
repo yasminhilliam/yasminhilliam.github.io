@@ -3,7 +3,7 @@
 <h2>Respiratory viral infection is associated with increased <i>Pseudomonas</i> abundance in cystic fibrosis airways</h2>
 <b>Yasmin Hilliam</b>, Catherine Armbruster, Samar Atteih, Glenn Rapsinski, Monika Johnson, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, John Williams, Vaughn Cooper, Stella Lee, Jennifer Bomberger
 
-_ERJ Open Research_ Nov 2025 DOI: [<u>10.1183/23120541.01022-2025</u>](https://doi.org/10.1183/23120541.01022-2025)
+_ERJ Open Research_ Apr 2026 DOI: [<u>10.1183/23120541.01022-2025</u>](https://doi.org/10.1183/23120541.01022-2025)
 
 <h2>Induction of lipid A modification genes in <i>Pseudomonas aeruginosa</i> cells tolerant to a commercially available contact lens disinfection solution</h2>
 <b>Yasmin Hilliam</b>, Stuart Armstrong, Fr&egrave;di Langendonk, Stephen Kaye, Craig Winstanley
