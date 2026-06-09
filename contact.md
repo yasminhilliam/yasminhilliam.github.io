@@ -1,6 +1,6 @@
 <h2>Contact</h2>
 
-[<u>Email</u>](mailto:yasmin.hilliam@dartmouth.edu)
+[<u>Email</u>](mailto:yasmin.hilliam@manchester.ac.uk)
 
 
 [<u>GitHub</u>](https://github.com/yasminhilliam)
