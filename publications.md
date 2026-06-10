@@ -1,5 +1,9 @@
 <h1>Publications</h1>
 
+<h2>Remodelling of cystic fibrosis respiratory microbiota in response to extended elexacaftor–tezacaftor–ivacaftor therapy</h2>
+Helen Gavillet, Lauren Hatfield, Michelle Hardman, Ryan Marsh, Gisli Einarsson, Christina Thornton, Michael Parkins, Jamie Duckers, Jennifer Bomberger, <b>Yasmin Hilliam</b>, Stella Lee, Robert Lord, Andrew Jones, Alexander Horsley, Thomas Daniels, Charlotte Teneback, Damian Rivett, Christopher van der Gaston
+_Microbiome_ May 2026 DOI: [<u>10.1186/s40168-026-02440-7</u>](https://link.springer.com/article/10.1186/s40168-026-02440-7)
+
 <h2>Respiratory viral infection is associated with increased <i>Pseudomonas</i> abundance in cystic fibrosis airways</h2>
 <b>Yasmin Hilliam</b>, Catherine Armbruster, Samar Atteih, Glenn Rapsinski, Monika Johnson, John Moore, Junu Koirala, Leah Krainz, Jordan Gaston, John Williams, Vaughn Cooper, Stella Lee, Jennifer Bomberger
 
