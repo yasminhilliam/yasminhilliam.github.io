@@ -1,6 +1,6 @@
 <h2>Contact</h2>
 
-<a href="mailto:yasmin.hilliam@manchester.ac.uk" target="_blank"><u>Email</u><</a>
+<a href="mailto:yasmin.hilliam@manchester.ac.uk" target="_blank"><u>Email</u></a>
 
 <a href="https://github.com/yasminhilliam" target="_blank"><u>GitHub</u></a>
 
