@@ -1,14 +1,12 @@
 <h2>Contact</h2>
 
-[<u>Email</u>](mailto:yasmin.hilliam@manchester.ac.uk)
+<a href="mailto:yasmin.hilliam@manchester.ac.uk" target="_blank"><h4><u>Email</u></h></a>
 
+<a href="https://github.com/yasminhilliam" target="_blank"><h4><u>GitHub</u></h></a>
 
-[<u>GitHub</u>](https://github.com/yasminhilliam)
+<a href="https://www.linkedin.com/in/yasmin-hilliam-17868378/" target="_blank"><h4><u>LinkedIn</u></h></a>
 
-
-[<u>LinkedIn</u>](https://www.linkedin.com/in/yasmin-hilliam-17868378/)
-
-<a href="https://yasminhilliam.github.io/assets/pdf/github_CV.pdf" target="_blank"><u>CV</u></a>
+<a href="https://yasminhilliam.github.io/assets/pdf/github_CV.pdf" target="_blank"><h4><u>CV</u></h></a>
 
 * * *
 
