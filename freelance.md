@@ -1,4 +1,4 @@
-<img src="/assets/img/ykh_logo.png" alt="Logo for YKH analysis and writing services" style="width:1000px;height:500px;">
+<img src="/assets/img/ykh_logo.png" alt="Logo for YKH analysis and writing services" style="width:500px;height:250px;">
 
 * * *
 
